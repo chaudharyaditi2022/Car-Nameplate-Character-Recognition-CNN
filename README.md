@@ -1,9 +1,9 @@
 # Car-Nameplate-Character-Recognition-CNN
 Character Recognition using CNN
 
-##Task 08 👨🏻💻
+## Task 08 👨🏻💻
 
-###Object Recognition using CNN model
+### Object Recognition using CNN model
 
 Task Description 📄
 
